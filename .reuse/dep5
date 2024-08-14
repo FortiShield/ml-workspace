@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ml-workspace
+Upstream-Contact: KhulnaSoft workspace <info@khulnasoft.com>
+                  Md Mamun <iconmamundentist@gmail.com>
+Source: https://github.com/khulnasoft/ml-workspace
+
+Files: **
+Copyright: KhulnaSoft LAB, Md Mamun
+License: MIT
