@@ -1,0 +1,7 @@
+# Base Requirements - Stable dependencies NOT in minimal/light/full
+# These are installed early for better Docker layer caching
+
+# Unique packages not present in requirements-minimal.txt, requirements-light.txt, or requirements-full.txt
+dill==0.3.4
+prometheus-client==0.11.0
+psutil==5.8.0
